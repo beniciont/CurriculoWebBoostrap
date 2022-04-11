@@ -1,4 +1,4 @@
-# Informações
+# INFORMAÇÕES
 
 # Hospedando um site estático na AWS com S3 e CloudFront
 
