@@ -1,4 +1,4 @@
-# PROTEJO EM ANDAMENTO...
+# Informações
 
 # Hospedando um site estático na AWS com S3 e CloudFront
 
